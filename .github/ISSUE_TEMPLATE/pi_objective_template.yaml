@@ -5,7 +5,6 @@ labels:
   - PI objective
   - to be triaged
 projects: ['input-output-hk/127']
-assignees: 
 body:
   - type: textarea
     id: description
